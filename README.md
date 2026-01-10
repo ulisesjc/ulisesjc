@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on maintaining the SHPE Website!<br>🌱 I’m currently learning about Golang, and Scala<br>💬 Ask me about my SRE Internship at Oracle!<br>⚡ I love Costco and Buc-ees
+🔭 I’m currently working on maintaining the SHPE Website!<br>🌱 I’m currently learning about Operating Systems, and Java<br>💬 Ask me about my SRE Internship at Oracle!<br>⚡ I love Costco and Buc-ees
 
 
 ## 🌐 Socials:
